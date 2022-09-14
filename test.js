@@ -5,7 +5,7 @@ const p = document.getElementById('Prac');
 const btn = document.getElementById('btn');
 // Add eventlistener
 btn.addEventListener('click', function () {
-  p.innerHTML = "This is a practice on how to use GitHub tools";
+  p.innerHTML = "<p>Wow! I've changed this messaged<p> <p> I've also added a new line to this function!";
 })
-//TODO don't like innerhtml message @thatskat
+//TODO #1 don't like innerhtml message @thatskat
 
