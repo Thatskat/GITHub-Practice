@@ -7,3 +7,5 @@ const btn = document.getElementById('btn');
 btn.addEventListener('click', function () {
   p.innerHTML = "This is a practice on how to use GitHub tools";
 })
+//TODO don't like innerhtml message @thatskat
+
